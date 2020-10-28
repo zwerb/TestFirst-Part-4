@@ -15,7 +15,7 @@ src/index.html
 tests/local-jasmine.html
 ```
 
-### To Process your SCSS / Sass Files
+### Process SCSS / Sass Files
 from the main dir:
 ```
 sass scss-source/:styles
@@ -23,6 +23,10 @@ sass scss-source/:styles
 //or, for persistent watching:
 
 sass --watch sass scss-source/:styles
+
+// or for individual files:
+
+sass scss-source/stylesheet.scss styles/stylesheet.css
 ```
 
 ### Some Setup Stuff
