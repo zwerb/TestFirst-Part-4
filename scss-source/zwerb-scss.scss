@@ -1,11 +1,11 @@
 /* SCSS File */
 
-// from main project dir:
-// sass scss-source/zwerb-scss.scss styles/zwerb-scss.css
+// from main project dir to run the whole dir:
+// sass scss-source/:styles
 
 // or, for persistent:
 
-// sass --watch scss-source/zwerb-scss.scss styles/zwerb-scss.css
+// sass --watch sass scss-source/:styles
 
 /* Zwerb Stylesheet */
 
@@ -94,4 +94,9 @@ p {
 }
 
 
-// sass scss-source/zwerb-scss.scss styles/zwerb-scss.css
+// from main project dir to run the whole dir:
+// sass scss-source/:styles
+
+// or, for persistent:
+
+// sass --watch sass scss-source/:styles

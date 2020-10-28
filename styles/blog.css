@@ -1,0 +1,31 @@
+/* SCSS File */
+/* Zwerb Stylesheet */
+#header {
+  background-color: grey;
+  font-family: cursive;
+  text-align: center;
+}
+
+#main {
+  font-family: Arial;
+}
+
+#nav {
+  list-style-type: none;
+}
+
+/* notice this syntax  */
+#nav li {
+  display: inline;
+}
+
+#nav a {
+  padding: 8px;
+  font-family: Arial;
+}
+
+.post {
+  color: indigo;
+}
+
+/*# sourceMappingURL=blog.css.map */

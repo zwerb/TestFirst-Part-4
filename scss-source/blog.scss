@@ -1,0 +1,48 @@
+/* SCSS File */
+
+// from main project dir to run the whole dir:
+// sass scss-source/:styles
+
+// or, for persistent:
+
+// sass --watch sass scss-source/:styles
+
+/* Zwerb Stylesheet */
+
+#header {
+    background-color: grey;
+    font-family: cursive;
+    text-align: center;  
+  }
+  
+  #main {
+    font-family: Arial
+  }
+  
+  #nav {
+    list-style-type: none;
+  }
+  
+  /* notice this syntax  */
+  
+  #nav li {
+    display: inline;
+  }
+  
+  #nav a {
+    padding: 8px;
+    font-family: Arial;
+    
+  }
+  
+  .post {
+    color: indigo;
+  }
+
+
+// from main project dir to run the whole dir:
+// sass scss-source/:styles
+
+// or, for persistent:
+
+// sass --watch sass scss-source/:styles
