@@ -1,0 +1,64 @@
+/* SCSS File */
+/* Zwerb Stylesheet */
+body {
+  background-color: #333;
+  color: #aaa;
+  font-family: cursive;
+}
+
+h1 {
+  color: #009922;
+  border-style: dashed;
+  border-width: 1px;
+}
+
+p {
+  border-style: dashed;
+  border-width: 1px;
+  border-color: #69a;
+}
+
+#example-01 div {
+  border-style: dashed;
+  border-width: 1px;
+  border-color: #96a;
+  width: 200px;
+}
+#example-01 h2 {
+  text-decoration: underline;
+}
+#example-01 h4 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#example-01 ul {
+  background-color: darkgoldenrod;
+  color: #232;
+}
+#example-01 ul li {
+  color: limegreen;
+}
+
+#self-quiz-01 div {
+  font-family: Comic Sans MS;
+  color: darkslategray;
+  width: 400px;
+  text-align: center;
+}
+#self-quiz-01 span {
+  color: limegreen;
+  text-decoration: underline;
+  font-style: italic;
+}
+#self-quiz-01 li {
+  font-family: cursive;
+}
+#self-quiz-01 ul {
+  background-color: indigo;
+  font-size: 44px;
+}
+#self-quiz-01 ol {
+  background-color: steelblue;
+  font-size: 22px;
+}
+
+/*# sourceMappingURL=zwerb-scss.css.map */

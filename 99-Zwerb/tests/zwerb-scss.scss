@@ -1,0 +1,82 @@
+/* SCSS File */
+
+// sass tests/zwerb-scss.scss tests/zwerb-scss.css
+
+// or
+
+// sass --watch tests/zwerb-scss.scss tests/zwerb-scss.css
+
+/* Zwerb Stylesheet */
+
+body {
+  background-color: #333;
+  color: #aaa;
+  font-family: cursive;
+}
+
+h1 {
+  color: #009922;
+  border-style: dashed;
+  border-width: 1px;
+}
+
+p {
+  border-style: dashed;
+  border-width: 1px;
+  border-color: #69a;
+}
+
+#example-01 {
+  div {
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #96a;
+    width: 200px;
+  }
+
+  h2 {
+    text-decoration: underline;
+  }
+
+  h4 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  ul {
+    background-color: darkgoldenrod;
+    color: #232;
+  }
+
+  ul li {
+    color: limegreen;
+  }
+}
+
+#self-quiz-01 {
+  div {
+    font-family: Comic Sans MS;
+    color: darkslategray;
+    width: 400px;
+    text-align: center;
+  }
+
+  span {
+    color: limegreen;
+    text-decoration: underline;
+    font-style: italic;
+  }
+
+  li {
+    font-family: cursive;
+  }
+
+  ul {
+    background-color: indigo;
+    font-size: 44px;
+  }
+
+  ol {
+    background-color: steelblue;
+    font-size: 22px;
+  }
+}
