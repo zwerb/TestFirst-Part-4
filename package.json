@@ -1,0 +1,28 @@
+{
+  "name": "TestFirst-Part-4",
+  "version": "1.0.0",
+  "description": "This isn't an actual part of FSA",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwerb/TestFirst-Part-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwerb/TestFirst-Part-4/issues"
+  },
+  "homepage": "https://github.com/zwerb/TestFirst-Part-4#readme",
+  "dependencies": {
+    "jasmine": "^3.6.2",
+    "node-sass": "^4.14.1",
+    "sass": "^1.27.0"
+  }
+}

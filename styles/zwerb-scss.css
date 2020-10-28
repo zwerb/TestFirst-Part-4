@@ -61,4 +61,12 @@ p {
   font-size: 22px;
 }
 
+#habits .good-habit {
+  color: limegreen;
+}
+#habits .bad-habit {
+  color: red;
+  text-decoration: line-through;
+}
+
 /*# sourceMappingURL=zwerb-scss.css.map */

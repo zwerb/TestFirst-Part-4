@@ -7,7 +7,7 @@ This isn't an actual part of FSA
 
 view in browser: 
 ```
-99-Zwerb/tests/index.html
+src/index.html
 ```
 
 ### Some Setup Stuff

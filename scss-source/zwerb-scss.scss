@@ -1,10 +1,11 @@
 /* SCSS File */
 
-// sass tests/zwerb-scss.scss tests/zwerb-scss.css
+// from main project dir:
+// sass scss-source/zwerb-scss.scss styles/zwerb-scss.css
 
-// or
+// or, for persistent:
 
-// sass --watch tests/zwerb-scss.scss tests/zwerb-scss.css
+// sass --watch scss-source/zwerb-scss.scss styles/zwerb-scss.css
 
 /* Zwerb Stylesheet */
 
@@ -80,3 +81,17 @@ p {
     font-size: 22px;
   }
 }
+
+#habits {
+  .good-habit {
+    color: limegreen;
+  }
+
+  .bad-habit {
+    color: red;
+    text-decoration: line-through;
+  }
+}
+
+
+// sass scss-source/zwerb-scss.scss styles/zwerb-scss.css
